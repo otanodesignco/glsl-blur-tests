@@ -10,7 +10,7 @@ export default function BasePlane()
     {
       min: 0,
       max: 10,
-      value: 0.3,
+      value: 0.08,
       step: 0.01,
       label: 'Blur Amount'
     },
